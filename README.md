@@ -6,6 +6,7 @@
 
 <div>
   <img href ="https://github.com/hugogacia360">
-  <img href = "188em" src ="https://github-readme-stats.vercel.app/api?username=hugogarcia360&count_private=true&include_all_commits=true"/>
-  <img href = "188em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=hugogarcia360&layout=compact&theme=dark"/>
+  <img href = "188em" src ="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hugogacia360)](https://github.com/anuraghazra/github-readme-stats)"/>
+  <img href = "188em" src = "[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hugogacia360)](https://github.com/anuraghazra/github-readme-stats)"/>
+  
   <div/>
