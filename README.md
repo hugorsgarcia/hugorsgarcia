@@ -4,9 +4,6 @@
 - 💞️ Quero contruibuir com projetos Open-Source
 - 📫 Me contate em contatohugogarcia@outlook.com
 
-<div>
-  <img href ="https://github.com/hugogacia360">
-  <img href = "188em" src ="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hugogacia360)](https://github.com/anuraghazra/github-readme-stats)"/>
-  <img href = "188em" src = "[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hugogacia360)](https://github.com/anuraghazra/github-readme-stats)"/>
-  
-  <div/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hugogacia360)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugogacia360)](https://github.com/anuraghazra/github-readme-stats)
