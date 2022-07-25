@@ -8,3 +8,7 @@
 
 <div style "display" inline _block"><br>
 <img align="center" alt="Java" height="50" width="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
+<img align="center" alt="C" height="50" width="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg">
+<img align="center" alt="HTML" height="50" width="50" src="https://pt.m.wikipedia.org/wiki/Ficheiro:HTML5_logo_and_wordmark.svg">
+<img align="center" alt="CSS" height="50" width="50" src="https://commons.wikimedia.org/wiki/File:CSS3_logo.svg"
+
