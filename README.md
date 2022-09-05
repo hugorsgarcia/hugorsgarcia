@@ -1,5 +1,5 @@
 - 👋 Olá, Eu sou Hugo Garcia
-- 👀 Me interesso muito por HTML e CSS
+- 👀 Curso Bacharelado em Ciêmcia da Computação
 - 🌱 Atualmente estudando Javascript
 - 💞️ Quero contruibuir com projetos Open-Source
 - 📫 Me contate em contatohugogarcia@outlook.com
