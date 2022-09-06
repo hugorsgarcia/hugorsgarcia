@@ -1,5 +1,5 @@
 - 👋 Olá, Eu sou Hugo Garcia
-- 👀 Curso Bacharelado em Ciêmcia da Computação
+- 👀 Curso bacharelado em Ciência da Computação
 - 🌱 Atualmente estudando Javascript
 - 💞️ Quero contruibuir com projetos Open-Source
 - 📫 Me contate em contatohugogarcia@outlook.com
