@@ -1,17 +1,35 @@
-- 👋 Olá, Eu sou Hugo Garcia
-- 👀 Curso bacharelado em Ciência da Computação
-- 🌱 Atualmente estudando Javascript
-- 💞️ Quero contruibuir com projetos Open-Source
-- 📫 Me contate em contatohugogarcia@outlook.com
+<h1 align="center">Hi 👋, I'm Hugo Garcia</h1>
+<h3 align="center">A computer science student from Brazil</h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hugogacia360&count_private=true&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugogacia360&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+- 🔭 I’m currently working on **college projects**
 
-<div style "display" inline _block"><br>
-<img align="center" alt="Java" height="50" width="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
-<img align="center" alt="C" height="50" width="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg">
-<img align="center" alt="C#" height="50" width="50" src="https://camo.githubusercontent.com/52045ed9d775b4ac9286e51c28b878edca6bb1750815b423c8d06c7976040ab7/68747470733a2f2f6d617274696e63686176657a2e6769746875622e696f2f4173736574732f4c6f676f732f6373686172702e737667">
-<img align="center" alt="HTML" height="50" width="50" src="https://camo.githubusercontent.com/c61346fb6ea6a25b03315c7a3655fdf3f0368efed773cc2cf393b3ff26a4a8d2/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f68746d6c2d312e737667">
-<img align="center" alt="CSS" height="50" width="50" src="https://camo.githubusercontent.com/de2d9a327e2243b0de9abeed9d96f93b346cee29e11594f4b975e30a023e1bb3/687474703a2f2f6c6966656861636b6465762e787372762e6a702f5a616b6b69426c6f672f696d616765732f7468756d622f637373335f6c6f676f2e737667">
-<img align="center" alt="Javascript" height="50" width="50" src="https://camo.githubusercontent.com/e133acc5ec37b1a55b508da9c447b5bfe02d44348bbb4fb9a99ce7c7db35c67d/68747470733a2f2f6d617274696e63686176657a2e6769746875622e696f2f4173736574732f4c6f676f732f6a6176617363726970742e737667" >
-<img align="center" alt="Typescript" height="50" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" >
+- 🌱 I’m currently learning **Spring Boot**
 
+- 👯 I’m looking to collaborate on **open-source projects**
+
+- 💬 Ask me about **Java, React, Typescript, HTML, CSS**
+
+- 📫 How to reach me **contatohugogarcia@outlook.com**
+
+- 📄 Know about my experiences [www.linkedin.com/in/hugogarcia360/](www.linkedin.com/in/hugogarcia360/)
+
+- ⚡ Fun fact **I play Basketball**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/hugogacia360" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hugogacia360" height="30" width="40" /></a>
+<a href="https://twitter.com/hugogarcia360" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hugogarcia360" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hugogarcia360" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hugogarcia360" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/16944191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16944191" height="30" width="40" /></a>
+<a href="https://medium.com/@hugo_garcia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hugo_garcia" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/centralstarwars" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="centralstarwars" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hugogacia360&show_icons=true&locale=en&layout=compact" alt="hugogacia360" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hugogacia360&show_icons=true&locale=en" alt="hugogacia360" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hugogacia360&" alt="hugogacia360" /></p>
