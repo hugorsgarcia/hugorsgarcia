@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [www.linkedin.com/in/hugogarcia360/](www.linkedin.com/in/hugogarcia360/)
 
-- ⚡ Fun fact **I play Basketball**
+- ⚡ Fun fact **I used to play Basketball**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
