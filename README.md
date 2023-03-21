@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **college projects**
 
-- 🌱 I’m currently learning **Spring Boot** and **React**
+- 🌱 I’m currently learning **Spring Boot**, **React**, **Javascript and Typescript
 
 - 👯 I’m looking to collaborate on **open-source projects**
 
