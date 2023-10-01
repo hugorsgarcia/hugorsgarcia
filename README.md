@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **contatohugogarcia@outlook.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/hugogarcia360/](www.linkedin.com/in/hugogarcia360/)
+- 📄 Know about my experiences [www.linkedin.com/in/hugogarcia360/](https://www.linkedin.com/in/hugorsgarcia/)
 
 - ⚡ Fun fact **I used to play Basketball**
 
