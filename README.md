@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **open-source projects**
 
-- 💬 Ask me about **Java, HTML, CSS**
+- 💬 Ask me about **Java, HTML, CSS, Javascript and React**
 
 - 📫 How to reach me **contatohugogarcia@outlook.com**
 
