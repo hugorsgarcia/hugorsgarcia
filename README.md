@@ -2,7 +2,7 @@
   
 # 👋 Olá! Eu sou Hugo Garcia
 
-## 💻 Cientista da Computação
+## 💻 Cientista da Computação - Desenvolvedor Full-Stack
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=hugorsgarcia&label=Visitas%20ao%20Perfil&countColor=%23263759&style=flat)](https://visitorbadge.io/status?path=hugorsgarcia)
 [![GitHub followers](https://img.shields.io/github/followers/hugorsgarcia?label=Seguidores&style=social)](https://github.com/hugorsgarcia)
@@ -15,8 +15,8 @@
 
 Sou **Desenvolvedor Full Stack** apaixonado por tecnologia e inovação. Atualmente, atuo como **Desenvolvedor Junior** no **Grupo Energisa**, onde contribuo para soluções tecnológicas que impactam milhões de pessoas.
 
-🎓 **Bacharel em Ciência da Computação** pelo CEFET-MG  
-💼 **Desenvolvedor Junior** no Grupo Energisa  
+🎓 **Bacharel em Ciência da Computação**  
+💼 **Desenvolvedor Backend Junior** no Grupo Energisa  
 🌱 Sempre em busca de novos desafios e aprendizados  
 🔭 Focado em desenvolvimento de aplicações web modernas e escaláveis
 
@@ -29,7 +29,6 @@ Sou **Desenvolvedor Full Stack** apaixonado por tecnologia e inovação. Atualme
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C%23](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -44,7 +43,6 @@ Sou **Desenvolvedor Full Stack** apaixonado por tecnologia e inovação. Atualme
 ### 🗄️ Bancos de Dados
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🛠️ IDEs & Editores
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
