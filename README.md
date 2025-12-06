@@ -67,13 +67,12 @@ Sou **Desenvolvedor Full Stack** apaixonado por tecnologia e inovação. Atualme
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hugorsgarcia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hugorsgarcia&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=10)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hugorsgarcia&theme=tokyonight&hide_border=true&background=0d1117)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hugorsgarcia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugorsgarcia&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
+</div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hugorsgarcia&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -81,9 +80,7 @@ Sou **Desenvolvedor Full Stack** apaixonado por tecnologia e inovação. Atualme
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hugorsgarcia&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
-
+  <img src="https://github-profile-trophy.vercel.app/?username=hugorsgarcia&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -91,9 +88,7 @@ Sou **Desenvolvedor Full Stack** apaixonado por tecnologia e inovação. Atualme
 ## 📈 Gráfico de Contribuições
 
 <div align="center">
-  
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hugorsgarcia&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hugorsgarcia&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 ---
