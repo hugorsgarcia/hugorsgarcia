@@ -1,34 +1,115 @@
-<h1 align="center">Hi 👋, I'm Hugo Garcia</h1>
-<h3 align="center">A computer science student from Brazil</h3>
+<div align="center">
+  
+# 👋 Olá! Eu sou Hugo Garcia
 
-- 🔭 I’m currently working on **college projects**
+## 💻 Cientista da Computação
 
-- 🌱 I’m currently learning **Spring Boot**, **React**, **Javascript and Typescript
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=hugorsgarcia&label=Visitas%20ao%20Perfil&countColor=%23263759&style=flat)](https://visitorbadge.io/status?path=hugorsgarcia)
+[![GitHub followers](https://img.shields.io/github/followers/hugorsgarcia?label=Seguidores&style=social)](https://github.com/hugorsgarcia)
 
-- 👯 I’m looking to collaborate on **open-source projects**
+</div>
 
-- 💬 Ask me about **Java, HTML, CSS, Javascript and React**
+---
 
-- 📫 How to reach me **contatohugogarcia@outlook.com**
+## 🚀 Sobre Mim
 
-- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/hugorsgarcia/)
+Sou **Desenvolvedor Full Stack** apaixonado por tecnologia e inovação. Atualmente, atuo como **Desenvolvedor Junior** no **Grupo Energisa**, onde contribuo para soluções tecnológicas que impactam milhões de pessoas.
 
-- ⚡ Fun fact **I used to play Basketball**
+🎓 **Bacharel em Ciência da Computação** pelo CEFET-MG  
+💼 **Desenvolvedor Junior** no Grupo Energisa  
+🌱 Sempre em busca de novos desafios e aprendizados  
+🔭 Focado em desenvolvimento de aplicações web modernas e escaláveis
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/hugogarcia360" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hugogarcia360" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hugogarcia360" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hugogarcia360" height="30" width="40" /></a>
-<a href="https://medium.com/@hugo_garcia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hugo_garcia" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/centralstarwars" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="centralstarwars" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
+## 🛠️ Tecnologias & Ferramentas
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hugorsgarcia&show_icons=true&locale=en&layout=compact&theme=radical" alt="hugorsgarcia" /></p>
+### 💻 Linguagens de Programação
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C%23](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hugorsgarcia&show_icons=true&locale=en&theme=radical" alt="hugorsgarcia" /></p>
+### 🚀 Frameworks & Bibliotecas
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
+### 🗄️ Bancos de Dados
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
+### 🛠️ IDEs & Editores
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
+### 🧪 Ferramentas de Desenvolvimento
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
+
+### 🔧 DevOps & Controle de Versão
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hugorsgarcia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugorsgarcia&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hugorsgarcia&theme=tokyonight" alt="hugorsgarcia" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hugorsgarcia&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15" alt="hugorsgarcia" />
+</div>
+
+---
+
+## 📈 Gráfico de Contribuições
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hugorsgarcia&theme=tokyo-night&hide_border=true" />
+</div>
+
+---
+
+## 🌐 Conecte-se Comigo
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hugorsgarcia)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://hugogarcia-dev.vercel.app/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hugorsgarcia)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatohugogarcia@outlook.com)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💬 "A tecnologia move o mundo, mas são as pessoas que fazem a diferença."
+
+⭐️ From [hugorsgarcia](https://github.com/hugorsgarcia)
+
+</div>
