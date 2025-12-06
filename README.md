@@ -67,12 +67,13 @@ Sou **Desenvolvedor Full Stack** apaixonado por tecnologia e inovação. Atualme
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hugorsgarcia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugorsgarcia&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hugorsgarcia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hugorsgarcia&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=10)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hugorsgarcia&theme=tokyonight&hide_border=true&background=0d1117)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hugorsgarcia&theme=tokyonight" alt="hugorsgarcia" />
 </div>
 
 ---
@@ -80,7 +81,9 @@ Sou **Desenvolvedor Full Stack** apaixonado por tecnologia e inovação. Atualme
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hugorsgarcia&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15" alt="hugorsgarcia" />
+  
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hugorsgarcia&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
+
 </div>
 
 ---
@@ -88,7 +91,9 @@ Sou **Desenvolvedor Full Stack** apaixonado por tecnologia e inovação. Atualme
 ## 📈 Gráfico de Contribuições
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hugorsgarcia&theme=tokyo-night&hide_border=true" />
+  
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hugorsgarcia&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae)
+
 </div>
 
 ---
