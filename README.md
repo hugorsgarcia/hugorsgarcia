@@ -67,12 +67,12 @@ Sou **Desenvolvedor Full Stack** apaixonado por tecnologia e inovação. Atualme
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hugorsgarcia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugorsgarcia&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hugorsgarcia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hugorsgarcia&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hugorsgarcia&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=hugorsgarcia&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
