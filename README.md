@@ -13,10 +13,9 @@
 
 ## 🚀 Sobre Mim
 
-Sou **Desenvolvedor Full Stack** apaixonado por tecnologia e inovação. Atualmente, atuo como **Desenvolvedor Junior** no **Grupo Energisa**, onde contribuo para soluções tecnológicas que impactam milhões de pessoas.
+Sou **Desenvolvedor Full Stack** apaixonado por tecnologia e inovação. Atualmente, atuo como **Desenvolvedor Junior** no **Grupo Energisa**, um dos principais conglomerados privados do setor elétrico brasileiro, com mais de 120 anos de história. Com sede original em Cataguases (MG), a companhia atua de forma integrada em diversos segmentos da cadeia de energia e gás. Com mais de 20 mil colaboradores, o grupo combina tradição e agilidade para conectar cerca de 9 milhões de clientes ao futuro da energia limpa e eficiente
 
-🎓 **Bacharel em Ciência da Computação**  
-💼 **Desenvolvedor Backend Junior** no Grupo Energisa  
+🎓 **Bacharel em Ciência da Computação** 💼 **Desenvolvedor Backend Junior** no Grupo Energisa  
 🌱 Sempre em busca de novos desafios e aprendizados  
 🔭 Focado em desenvolvimento de aplicações web modernas e escaláveis
 
@@ -41,8 +40,16 @@ Sou **Desenvolvedor Full Stack** apaixonado por tecnologia e inovação. Atualme
 ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ### 🗄️ Bancos de Dados
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🤖 Agentes/Modelos de IA
+![Claude Code](https://img.shields.io/badge/-Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/-GitHub_Copilot-000000?style=for-the-badge&logo=github-copilot&logoColor=white)
+![Cursor](https://img.shields.io/badge/-Cursor-1A1A1A?style=for-the-badge)
+![Antigravity](https://img.shields.io/badge/-Antigravity-4B0082?style=for-the-badge)
 
 ### 🛠️ IDEs & Editores
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -73,7 +80,6 @@ Sou **Desenvolvedor Full Stack** apaixonado por tecnologia e inovação. Atualme
   <img src="https://streak-stats.demolab.com/?user=hugorsgarcia&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
----
 ---
 
 ## 📈 Gráfico de Contribuições
