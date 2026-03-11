@@ -74,15 +74,6 @@ Sou **Desenvolvedor Full Stack** apaixonado por tecnologia e inovação. Atualme
 </div>
 
 ---
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <a href="https://github-profile-trophy-kannan.vercel.app/">
-    <img src="https://github-profile-trophy-fork-two.vercel.app/?username=hugorsgarcia&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-  </a>
-</div>
-
 ---
 
 ## 📈 Gráfico de Contribuições
