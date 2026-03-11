@@ -77,11 +77,7 @@ Sou **Desenvolvedor Full Stack** apaixonado por tecnologia e inovação. Atualme
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=hugorsgarcia&theme=tokyonight&no-frame=true&no-bg=true&v=1" alt="Hugo Garcia Trophies" />
-  </a>
-</div>
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hugorsgarcia&theme=tokyonight&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
