@@ -15,9 +15,10 @@
 
 Sou **Desenvolvedor Full Stack** apaixonado por tecnologia e inovação. Atualmente, atuo como **Desenvolvedor Junior** no **Grupo Energisa**, um dos principais conglomerados privados do setor elétrico brasileiro, com mais de 120 anos de história. Com sede original em Cataguases (MG), a companhia atua de forma integrada em diversos segmentos da cadeia de energia e gás. Com mais de 20 mil colaboradores, o grupo combina tradição e agilidade para conectar cerca de 9 milhões de clientes ao futuro da energia limpa e eficiente
 
-🎓 **Bacharel em Ciência da Computação** 💼 **Desenvolvedor Backend Junior** no Grupo Energisa  
+💼 **Desenvolvedor Backend Junior** no Grupo Energisa  
+🎓 **Bacharel em Ciência da Computação**
 🌱 Sempre em busca de novos desafios e aprendizados  
-🔭 Focado em desenvolvimento de aplicações web modernas e escaláveis
+🔭 Focado no desenvolvimento e modernizações de aplicações legado
 
 ---
 
